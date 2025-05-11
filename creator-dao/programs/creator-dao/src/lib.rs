@@ -8,7 +8,7 @@ use anchor_spl::{token::{Token, TokenAccount, MintTo, mint_to, Mint}, associated
 use anchor_spl::token::{Transfer as TransferSpl, transfer as transfer_spl};
 
 
-declare_id!("89tL9Ht9DvKaKjoAovBAaACsD9kL9VCDx9vzFbAuqsjD");
+declare_id!("D8yw1wJpKHXysrx6ik2eL7ySLpvrx9PXbrQukNV9tsQZ");
 
 pub const PUBKEY_L: usize = 32;
 pub const ENUM_L: usize = 1;

@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-creator_dao = "89tL9Ht9DvKaKjoAovBAaACsD9kL9VCDx9vzFbAuqsjD"
+creator_dao = "D8yw1wJpKHXysrx6ik2eL7ySLpvrx9PXbrQukNV9tsQZ"
 
 [registry]
 url = "https://api.apr.dev"

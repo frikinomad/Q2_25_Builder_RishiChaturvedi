@@ -1,0 +1,3 @@
+{
+  "installCommand": "npm install --legacy-peer-deps --save @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons"
+}
